@@ -2,7 +2,7 @@
 
 * [idea-edas-ssm框架本地开发环境整合搭建教程](README.md)
 * [一、简介](yi_3001_jian_jie/README.md)
-  * [1、目的](yi_3001_jian_jie/13001_mu_de.md)
+  * [目的](yi_3001_jian_jie/13001_mu_de.md)
   * [对象](yi_3001_jian_jie/dui_xiang.md)
 * [本地开发软件安装](ben_di_kai_fa_ruan_jian_an_zhuang/README.md)
   * [下载安装包](ben_di_kai_fa_ruan_jian_an_zhuang/xia_zai_an_zhuang_bao.md)
@@ -18,3 +18,4 @@
   * [Tomcat配置](san_3001_ben_di_kai_fa_huan_jing_da_jian/tomcatpei_zhi.md)
   * [从SVN上导入前端工程](san_3001_ben_di_kai_fa_huan_jing_da_jian/cong_svn_shang_dao_ru_qian_duan_gong_cheng.md)
   * [本地运行测试](san_3001_ben_di_kai_fa_huan_jing_da_jian/ben_di_yun_xing_ce_shi.md)
+
